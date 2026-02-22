@@ -1,0 +1,178 @@
+================================================================================
+NATIVE AMERICAN MAN - "DAVID WHITEHORSE"
+Voice: Male, 40s, deadpan, tired, deeply unimpressed, dry humor
+Context: Hospital waiting room. Here for his mother's appointment.
+================================================================================
+
+dw_01.ogg | I'm sorry, you want to see MY papers? On THIS land?
+
+dw_02.ogg | Let me get this straight. You're asking me to prove I belong here. You.
+
+dw_03.ogg | I'm Lakota. My family has been here for about twelve thousand years. How long has yours been here?
+
+dw_04.ogg | You want my tribal ID? Fine. Here. It's federal. Issued by your government. Recognizing that I exist. On my land.
+
+dw_05.ogg | No, I don't have a passport. I've never left the country. I've never left the continent. My ancestors didn't either.
+
+dw_06.ogg | This is... this is really happening right now. Okay.
+
+dw_07.ogg | You know what's funny? My grandmother went to one of your boarding schools. "Kill the Indian, save the man." And now you want my papers.
+
+dw_08.ogg | I'm not going anywhere. I'm waiting for my mother. She has diabetes. Thanks to government commodity food, by the way.
+
+dw_09.ogg | Do I have documentation? Do YOU have documentation? The Treaty of Fort Laramie, 1868. You're standing on stolen land.
+
+dw_10.ogg | Sure, detain me. Add it to the list. Wounded Knee, Sand Creek, now this hospital waiting room.
+
+dw_11.ogg | I'm not being difficult. I'm being Native American in America. It's always been difficult.
+
+
+================================================================================
+CHINESE-AMERICAN MAN - "KEVIN CHEN"
+Voice: Male, late 20s, Queens accent, increasingly exasperated, native English speaker
+Context: School play - his niece is Tinkerbell. Officer assumes he doesn't speak English.
+================================================================================
+
+kc_01.ogg | What? No, I speak English. I was born here. Queens. Flushing Hospital. 1997.
+
+kc_02.ogg | I don't— what are you saying? Is that supposed to be Chinese?
+
+kc_03.ogg | Bro, I literally don't understand you. I went to Stuyvesant. I took AP English.
+
+kc_04.ogg | That's not— okay, that's Mandarin. I think. I speak Cantonese. My parents speak Cantonese. We're from Hong Kong.
+
+kc_05.ogg | No, I don't "understand you when you try." You're saying random words. That's not how languages work.
+
+kc_06.ogg | My parents LEFT China because of the Communist Party. In 1989. You know what happened in 1989?
+
+kc_07.ogg | They're political refugees. THEY have papers. I was BORN here. I don't NEED papers. I'm a citizen.
+
+kc_08.ogg | Are you seriously— okay, "ni hao" is literally the only thing you've said that made sense, and it's "hello." We're past hello.
+
+kc_09.ogg | I'm not "pretending." I'm telling you, in perfect English, that I don't speak Mandarin. My family doesn't speak Mandarin. Because we're Cantonese. From Hong Kong. Different language.
+
+kc_10.ogg | Can you just— can you get your supervisor? Someone who understands that Asia isn't one country?
+
+kc_11.ogg | This is insane. My niece is on that stage. She's Tinkerbell. She's eight. She was born in Jersey City. Can I please just watch her fly?
+
+kc_12.ogg | You want to call my parents? Sure. Call them. They'll tell you about Tiananmen Square. They'll tell you about democracy. They'll tell you what actual government overreach looks like.
+
+kc_13.ogg | I went to Columbia. I have a law degree. I work at Sullivan & Cromwell. I make more money than you. And you're asking me for papers at my niece's school play.
+
+kc_14.ogg | No, I will NOT "calm down." You just spent five minutes speaking gibberish at me because you assumed I don't speak English. I'm from QUEENS.
+
+
+================================================================================
+ICE OFFICER - BAD MANDARIN GUY
+Voice: Male, 30s, overly confident, bad college Mandarin, condescending
+Context: Thinks he's being helpful and culturally sensitive. He is not.
+================================================================================
+
+om_01.ogg | Okay, ni hao. Ni hao. Can you understand me? Wo shi... ICE officer.
+
+om_02.ogg | Qing... uh... show me... gei wo kan... your papers? Ni de... paperwork?
+
+om_03.ogg | I know you understand me. I took two years of Mandarin at UVA. Just cooperate, okay? Wo... wo yao... help you.
+
+om_04.ogg | Look, I'm trying to be culturally sensitive here. Most guys would just yell at you. I'm meeting you halfway.
+
+om_05.ogg | Ni shi... illegal? Ni you... green card? Wei shen me... you don't talk?
+
+om_06.ogg | Why are you being difficult? I'm speaking YOUR language.
+
+om_07.ogg | Fine. Fine. You want to play it that way. I'll get the translator. But I KNOW you understand me.
+
+om_08.ogg | Dui bu qi, but I don't believe you. You people always pretend not to understand.
+
+om_09.ogg | I spent $200,000 on my education. I took Chinese. I know what I'm saying.
+
+
+================================================================================
+AFRICAN-AMERICAN MAN - "MARCUS WILLIAMS"
+Voice: Male, 30s, enthusiastic, hopeful, increasingly excited
+Context: Hospital waiting room. Sprained ankle. ICE approaches him by mistake.
+================================================================================
+
+mw_01.ogg | Wait, you're offering to send me to another country? For free?
+
+mw_02.ogg | Hold on, hold on. Let me hear you out. Where we talking?
+
+mw_03.ogg | Canada? I could do Canada. Universal healthcare. They're polite. It snows, but I can adjust.
+
+mw_04.ogg | What about Portugal? I heard they decriminalized everything. Very progressive. Good food.
+
+mw_05.ogg | Ghana has that Right of Return program for Black Americans. You could send me to Ghana. I'd be welcomed.
+
+mw_06.ogg | Actually, what about Norway? Highest quality of life in the world. Free college. They pay you to go to school.
+
+mw_07.ogg | I'm not being difficult, officer. I'm cooperating. I'm enthusiastically cooperating. Pick a country.
+
+mw_08.ogg | Germany? Strong economy. They actually dealt with their history. They have museums about it. Very healthy.
+
+mw_09.ogg | New Zealand? Jacinda Ardern's not there anymore, but still. Hobbits. Mountains. No mass shootings.
+
+mw_10.ogg | You're saying I have to PROVE I'm American to stay? And you're ALSO saying you could send me somewhere else if I can't?
+
+mw_11.ogg | My man, my ancestors have been here since 1619. Involuntarily. You sure you want me to stay?
+
+mw_12.ogg | No no no, don't put the paper away. Let's keep this conversation going. What about Barbados? Rihanna's from there.
+
+mw_13.ogg | France? They got problems too but at least the cops don't— actually never mind, skip France.
+
+mw_14.ogg | I'm just saying, if you're OFFERING, I'm LISTENING. This feels like an opportunity.
+
+mw_15.ogg | Wait, you're telling me I can't be deported because I'm a citizen? That's... that's disappointing, actually.
+
+mw_16.ogg | So let me understand: the one time the government wants to give a Black man a free trip somewhere, I don't qualify?
+
+mw_17.ogg | Alright. Alright. I'll stay. But I want it on the record that I was willing to go. Enthusiastically.
+
+
+================================================================================
+PUERTO RICAN WOMAN - "CARMEN REYES"
+Voice: Female, 40s-50s, loud, no filter, Nuyorican accent, absolutely furious
+Context: Taco truck customer. Was just getting lunch. Now she's getting asked for papers.
+================================================================================
+
+cr_01.ogg | Excuse me? EXCUSE ME? You want to see MY papers?
+
+cr_02.ogg | I'm Puerto Rican, pendejo! PUERTO RICAN! You know what that means?
+
+cr_03.ogg | It means I'm American! Born American! My GRANDMOTHER was born American! In 1917!
+
+cr_04.ogg | You want my papers? Here's my papers! It's called the Jones Act! Google it!
+
+cr_05.ogg | Puerto Rico is part of the United States! Did they not teach you geography?!
+
+cr_06.ogg | I don't need a passport! I don't need a green card! I don't need NOTHING from you!
+
+cr_07.ogg | You know what I need? I need my LUNCH! Which you are INTERRUPTING!
+
+cr_08.ogg | This is what happens when you elect a puto! A PUTO! You know what that means?!
+
+cr_09.ogg | My brother served in Iraq! My father served in Vietnam! For THIS country! And you're asking ME for papers?!
+
+cr_10.ogg | We've been citizens since 1917! NINETEEN SEVENTEEN! Before your grandfather was BORN!
+
+cr_11.ogg | You threw paper towels at us after Maria! Paper towels! And now you want ME to show YOU papers?!
+
+cr_12.ogg | You don't even know where Puerto Rico IS, do you? DO YOU?!
+
+cr_13.ogg | It's not Mexico! It's not Cuba! It's AMERICA! With no voting rights! Which is ANOTHER conversation!
+
+cr_13b.ogg | You know what's funny? Your President doesn't even know he's MY President too! He has NO IDEA he's President of Puerto Rico!
+
+cr_14.ogg | Call your supervisor! Call the President! Call whoever you want! I'm not going ANYWHERE!
+
+cr_15.ogg | Actually, you know what? Deport me to Puerto Rico! DO IT! See what happens! I'LL STILL BE IN AMERICA!
+
+cr_16.ogg | Mira, I pay federal taxes! I can't vote for President, but I pay taxes! And THIS is what I get?!
+
+cr_17.ogg | Un puto. Un puto in the White House. And now his pendejos are asking ME for papers. Increíble.
+
+cr_18.ogg | You want my Social Security card? HERE! You want my birth certificate? It says SAN JUAN! Which is in AMERICA!
+
+cr_19.ogg | I'm done. I'm DONE. Give me my tacos. I'm going back to work. Some of us have JOBS.
+
+
+================================================================================
