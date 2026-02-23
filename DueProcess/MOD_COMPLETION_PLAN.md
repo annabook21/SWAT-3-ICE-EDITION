@@ -135,20 +135,20 @@
 
 ## 8. MISSION/SCRIPT SYNC FIXES
 
-- [ ] **School play:** Missions.ini says "Wizard of Oz" / Dorothy. Scripts say "Peter Pan" / Tinkerbell. **Decision:** Use Peter Pan. Kevin Chen's niece = Tinkerbell. Update Missions.ini school section to Peter Pan.
-- [ ] **Taco owner:** Missions.ini has "Lupe Hernandez" (Female, 59, citizen 2003). Scripts have "Ramón Gutierrez" (Male, 58). **Decision:** Ramón = operator; Lupe = wife/partner or rename Lupe to Ramón. Or: Lupe runs truck, Ramón works it—pick one for primary character.
+- [x] **School play:** Updated to Peter Pan. Mia Chen (Kevin's niece) = Tinkerbell. Kevin Chen, Maria Rodriguez added as hostages.
+- [x] **Taco owner:** Ramón Gutierrez = operator. Lupe Gutierrez = wife/co-owner. Carmen Reyes added as customer.
 
 ---
 
 ## 9. IMPLEMENTATION ORDER
 
-1. **Sync missions** — Fix Wizard of Oz → Peter Pan; resolve Lupe/Ramón
-2. **Speakers.ini** — Add 5 custom speakers (dw, mw, kc, cr, om)
-3. **SoundEffects.ini** — Wire custom voice files to appropriate events (start with 1–2 as test)
-4. **SwatEd test** — Place one conversation volume, trigger one line
-5. **Character archetypes** — Add HostageArchetypes for key characters; map to base models
-6. **Texture swaps** — Create 3–5 outfit variants (quinceañera, apron, etc.)
-7. **Remaining audio** — TOC, News Anchor, briefings, 911, loading in priority order
+1. [x] **Sync missions** — Done. Peter Pan, Ramón/Lupe, David/Marcus in hospital, Kevin/Maria in school, Carmen in taco.
+2. [x] **Speakers.ini** — Done. Added dw, mw, kc, cr, om.
+3. [ ] **SoundEffects.ini** — Wire custom voice files (needs sound path mapping; may require folder restructure)
+4. [ ] **SwatEd test** — Place conversation volumes, trigger lines (Windows + SwatEd)
+5. [x] **Character archetypes** — Done. DueProcess_DavidWhitehorse, MarcusWilliams, KevinChen, CarmenReyes, RamonGutierrez, MariaRodriguez.
+6. [ ] **Texture swaps** — Create 3–5 outfit variants (quinceañera, apron, etc.)
+7. [ ] **Remaining audio** — TOC, News Anchor, briefings, 911, loading in priority order
 
 ---
 
