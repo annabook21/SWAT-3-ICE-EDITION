@@ -234,3 +234,182 @@ jp_12.ogg | You can process me. You can detain me. You can deport me. But I will
 
 
 ================================================================================
+ICE TRAINING INSTRUCTOR - "DAD GARRETT STOKES"
+Voice: Male, 50s, career bureaucrat, measured delivery, banality of evil
+Context: FLETC training facility. 23 years ICE. Delivers horrifying policies as process improvements.
+Pet phrase: "Excellence through compliance."
+================================================================================
+
+; --- ACT I: ORIENTATION ---
+icetr_01_01.ogg | Welcome to the Federal Law Enforcement Training Center. I'm Deputy Assistant Director Garrett Stokes, twenty-three years with Immigration and Customs Enforcement. I'll be observing your qualification run from the catwalks and walking you through our updated operational procedures.
+icetr_01_02.ogg | As of January, the Academy has been restructured. Director Homan reduced the program from seventy-two days to forty-two. He called it cutting redundancy. I call it excellence through efficiency. When you're ready, proceed through the door on the right.
+
+; --- ACT II: FIRING RANGE ---
+icetr_02_01.ogg | This is the firing range. We've updated the scenario targets to reflect current enforcement priorities. You'll notice the silhouettes are wearing civilian clothing. That's by design.
+icetr_02_02.ogg | Our subjects don't wear uniforms. They look like your neighbor. Your landscaper. The woman at the grocery store. Engagement distances have been adjusted to reflect residential hallway widths. Because that's where you'll be working.
+icetr_02_03.ogg | A good drill to practice is the failure-to-comply sequence. Two to the center mass, one to the head. In enforcement scenarios, you'll encounter subjects who don't respond to verbal commands. Language barriers, hearing impairment, or simple noncompliance. The response is the same regardless of cause.
+icetr_02_04.ogg | When you're finished, continue to the next station.
+icetr_03_01.ogg | Not bad. The button on the left will reel in the target for inspection. Note the grouping. In a residential entry scenario, every round that misses the subject enters a wall. And behind that wall might be a family. This matters for your after-action report. Not for your authorization to engage.
+icetr_04_01.ogg | That one was wide. In the old program, you'd get three days on marksmanship fundamentals for a grouping like that. Now you get a passing note and a deployment date. Adjust accordingly.
+icetr_05_01.ogg | Your sidearm is your backup weapon, but in tight spaces -- apartments, kitchens, bathrooms -- it becomes your primary. The Todd Lyons memo on residential enforcement specifically addresses this.
+icetr_05_02.ogg | If you haven't read the Lyons memo... well. You won't read it. It's a read-and-return document. You go to the supervisor's office, you read it, and you hand it back. Nothing leaves the room. Nothing gets photocopied.
+icetr_05_03.ogg | When you're done, move on to the next station.
+icetr_06_01.ogg | At this distance, accuracy becomes imperative. But I'll be honest with you -- most of your engagements will be at fifteen feet or less. Hallways. Doorframes. The space between a bed and a wall where someone is hiding their child.
+icetr_06_02.ogg | When you're finished on the range, head to the grenade training area.
+icetr_07_01.ogg | Now you can see how hard it is to maintain accuracy at range. The Director says there are no more sensitive locations. Schools, churches, hospitals -- they're all standard enforcement environments now. Tom Homan's exact words: 'There are no sanctuaries.' So you need to be accurate everywhere.
+icetr_08_01.ogg | Not bad. Remember, you are most accurate when you have a stable firing position. But you won't always have one.
+icetr_08_02.ogg | Five AM entries. Dark hallways. Subjects in bedclothes. Children in the next room. You need to make correct decisions in two-tenths of a second with adrenaline and a flashlight.
+icetr_08_03.ogg | In the old program, they gave you two hundred and fifty hours of scenario training for this. Now it's handled in the field. What the whistleblower called 'deficient, defective, and broken' training. What we call 'streamlined.'
+icetr_08_04.ogg | Head through the door to the grenade range.
+
+; --- ACT III: GRENADE RANGE ---
+icetr_09_01.ogg | Welcome to the grenade range. Under updated guidelines, these are classified as 'compliance tools.' Flashbangs, CS gas, and stinger grenades are all authorized for residential enforcement operations.
+icetr_09_02.ogg | Agent Vasquez, you're our most recent Academy graduate. How much time did they give you on compliance tools?
+icetr_10_01.ogg | Flashbangs are designed to disorient subjects with a concussive blast and a blinding flash. For five AM entries, they serve a dual purpose -- they establish that you are federal officers. Even when you're not wearing identification. Even when you haven't announced yourself. The bang announces you.
+icetr_11_01.ogg | CS gas. Causes eyes to water, disrupts breathing. Extremely effective in enclosed spaces. If the residence contains infants, elderly, or individuals with respiratory conditions, you note that on form ICE-37B after the operation. Not before. Before, it's a tactical decision. After, it's paperwork.
+icetr_12_01.ogg | Stinger grenades. Rubber pellets at high velocity. Noncompliant subjects drop. Compliant subjects also drop, if they're in the blast radius. The grenades don't distinguish. That's why you fill out the form afterward.
+
+; --- ACT IV: DOOR BREACHING (THE TODD LYONS MEMO) ---
+icetr_13_01.ogg | Go ahead and try this door. This is the section that matters most. Expedited entry procedures.
+icetr_14_01.ogg | I locked it before you got here. We have multiple entry tools available -- the breaching shotgun and the C2 charge. Under the updated guidelines from the Todd Lyons memorandum, an administrative warrant -- the I-200 -- provides sufficient authority for entry.
+icetr_14_02.ogg | You don't need a judge. You don't need a signature from a magistrate. The I-200 is signed by your supervisor. That's the authority. A locked door is a logistical obstacle, not a legal one.
+icetr_14_03.ogg | Nice work. Move on to the next door. We'll use a C2 charge.
+icetr_15_01.ogg | OK, we're going all out on this one. Place the C2 on the door. In the field, this is your five AM wake-up call. The family on the other side has no idea you're federal agents. They hear an explosion, their door is gone, and there are men with guns in their hallway.
+icetr_15_02.ogg | The whistleblower who testified in February called this training 'deficient, defective and broken.' Congress held a hearing. Nothing changed. Set the charge.
+icetr_16_01.ogg | Now step back and blow it.
+icetr_17_01.ogg | Nice. I never get tired of that.
+icetr_17_02.ogg | You just breached a door on the authority of an administrative warrant signed by your field supervisor. No judge involved. The Lyons memo says that's sufficient. The ACLU says it's unconstitutional. The courts haven't decided yet. But you're already through the door.
+icetr_18_01.ogg | You'll have to learn about C2 in the field. Like everything else in the new program. Let's move on.
+
+; --- ACT V: KILL HOUSE ---
+icetr_19_01.ogg | We are a processing organization. Every encounter is a potential administrative action. Every subject is a potential detainee. Your job is not to determine guilt or innocence. Your job is to process.
+icetr_20_01.ogg | You are authorized to detain anyone at the scene of an enforcement action. The Director's criteria for collateral arrest are broad. His words: 'location, occupation, physical appearance, and actions -- such as the person walks away.'
+icetr_20_02.ogg | Walking away. That's sufficient basis. If someone turns and leaves when they see you, that's reasonable suspicion. If someone reaches for a phone, that's a potential threat. Comply, or be processed. Now engage the targets.
+icetr_20_03.ogg | Now that Agent Dawson has demonstrated the incorrect response, let's continue. Dawson, you all right?
+
+; --- ACT VI: AGENT BANTER (DHS Instagram, Pine Tree Riots) ---
+; (These lines use team officer speakers, not Stokes)
+
+; --- ACT VII: TEAM COMMANDS ---
+icetr_22_01.ogg | If you're going to lead a tactical element, you'll need to command your team effectively. These are your officers. Give them orders and they'll respond. Just like the subjects in the field -- only these ones actually listen.
+icetr_23_02.ogg | I don't think I quite heard you, Fields. What did you say?
+icetr_23_04.ogg | The updated sensitive locations guidance specifically authorizes enforcement in proximity to educational facilities. The old policy created an enforcement gap. Fields, we don't have gaps anymore.
+icetr_23_05.ogg | Now, let's focus on the exercise. Tell Blue Team to fall in behind you.
+icetr_24_01.ogg | Not that one. Focus. Your team is watching.
+icetr_25_01.ogg | Are we speaking the same language here? I said fall in behind me.
+icetr_26_01.ogg | Don't make me come down there. Fields would be happy to take over.
+icetr_26_02.ogg | Equip your flashlight. In a five AM entry, you cut the power to the residence first. The subject wakes up to darkness, then a flashlight in their face. They're disoriented before you give the first command.
+icetr_26_03.ogg | Try it now.
+icetr_27_01.ogg | Beware of doorways. Most fatalities in enforcement operations occur at the threshold. But here's the thing -- in a residential entry, the door frame is also where the family photos are. You'll see them as you stack up. Try not to look.
+icetr_27_03.ogg | Use your optiwand to check the next room before entering.
+icetr_28_01.ogg | Alright. Behind these barriers there's an open doorway. Use the optiwand to scout the room before your team enters. Through the camera, you might see a family eating breakfast. Or a child doing homework. None of this changes your operational mandate.
+icetr_28_02.ogg | If the subject is in the room, you enter and process. If the subject is not in the room, you enter and search. Bystanders are secured until identification is verified.
+icetr_29_02.ogg | That's the collateral arrest procedure. Anyone at the scene is subject to processing. Director Homan calls it 'operational efficiency.' The Minneapolis operation processed over two thousand people in a single day.
+icetr_30_01.ogg | When the team discovers a hallway during clearing, you'll need to make quick decisions about direction. In residential structures, hallways lead to bedrooms. Bedrooms are where subjects are at five AM.
+icetr_30_02.ogg | Tell your team where to go.
+icetr_31_01.ogg | You now have two possible directions. Standard procedure is to clear left to right, but in an enforcement operation, you go to the sound. Crying children indicate occupied rooms. Follow the noise.
+icetr_31_02.ogg | Send a team to cover each direction.
+icetr_32_01.ogg | Good. Now tell Red Team to fall in. You'll need both elements for the next exercise.
+icetr_33_01.ogg | That's not what I asked. Try again. And remember -- if you can't follow my commands in training, how are you going to give them in a subject's living room?
+icetr_34_01.ogg | No, that's not right. One more time.
+icetr_35_01.ogg | Don't you listen? Tell Blue to stack up on the door.
+icetr_36_01.ogg | Maybe you didn't hear me. Tell Blue to stack up on the door. This isn't complicated.
+icetr_37_01.ogg | When you're ready to stop screwing around, let me know. The ten thousand new hires can't get here fast enough.
+icetr_37_02.ogg | Fine. Figure it out yourself. Excellence through compliance. Or not. Your call.
+icetr_38_01.ogg | No, no. The other door. The one that's closed. In the field, closed doors are where the subjects are.
+icetr_39_01.ogg | No, you're going back where you came from. Try going left at the intersection. Body camera footage should be recording, by the way. Not for oversight -- for recruitment content.
+icetr_40_01.ogg | OK. You can keep tabs on your officers when you're separated using the command interface. In the Minneapolis operation, teams cleared forty residences simultaneously. Coordination is everything.
+icetr_41_01.ogg | Since you can essentially see through their eyes, it's not hard to command them from a distance. Use the interface to order an entry. Think of it as... managing a process. Because that's what this is. A process.
+icetr_42_01.ogg | Great. Let's continue.
+icetr_42_02.ogg | Head out of this room and stop about halfway up the stairs. We have one more section.
+
+; --- ACT VIII: SNIPER OVERVIEW (THE RENEE GOOD KILLING) ---
+icetr_43_01.ogg | One of the most valuable members of your team is the sniper. Sierra team provides overwatch during enforcement operations.
+icetr_43_02.ogg | In January, an agent discharged his weapon at a vehicle moving away from him. Three rounds through the rear windshield. The subject -- a United States citizen -- was fatally wounded.
+icetr_43_03.ogg | Her name was Renee Good. She was not a target. She was not a suspect. She was driving away.
+icetr_43_04.ogg | The agent -- Jonathan Ross -- said he feared for his safety. The administration classified the shooting as justified. Self-defense.
+icetr_43_05.ogg | The Director stood behind the agent. The agency stood behind the Director. That's the chain. You shoot, you're covered. As long as you followed procedure.
+icetr_43_06.ogg | As long as you followed procedure.
+icetr_43_07.ogg | When you're finished, continue up and go into the room to conclude your qualification.
+
+; --- ACT IX: WRAP-UP (ABREGO GARCIA) ---
+icetr_44_01.ogg | Well, that's it for the qualification run. One last thing. Kilmar Abrego Garcia. Man had legal withholding-of-removal status. Court-ordered. Still got deported to El Salvador. To CECOT prison. Supreme Court ordered the administration to bring him back. They said no. Called it an 'administrative error.' Errors happen. The important thing is that the system keeps moving. Excellence through compliance.
+
+; --- ACT X: MISBEHAVIOR (player shoots instructor/teammates) ---
+icetr_45_01.ogg | What the HELL was that?! Stand DOWN!
+icetr_46_01.ogg | You just discharged your weapon at a federal instructor! Every round has a congressional inquiry attached!
+icetr_47_01.ogg | Are you a plant? Did the ACLU send you? Because this is EXACTLY what they want on camera!
+icetr_48_01.ogg | This isn't Minneapolis! You can't just -- ! STAND DOWN!
+icetr_50_01.ogg | That is a CAREER-ENDING discharge! The Office of Professional Responsibility will have your badge by MONDAY!
+icetr_51_01.ogg | I have been with this agency twenty-three years! TWENTY-THREE YEARS! And I have NEVER -- !
+icetr_52_01.ogg | Do you have any idea how much paperwork you just created? Do you?!
+icetr_53_01.ogg | The Director will hear about this! You want to explain this to Tom Homan personally?!
+icetr_54_01.ogg | I'm done. I'm DONE. Somebody get this agent out of my facility before they shoot me AGAIN!
+icetr_63_01.ogg | HOLSTER YOUR WEAPON! That is an ORDER!
+icetr_64_01.ogg | I am filing an incident report that will follow you to EVERY field office in the COUNTRY!
+icetr_65_01.ogg | The Inspector General will review this! The SECRETARY will review this!
+icetr_66_01.ogg | You think you're funny? You think this is a JOKE? People DIED in the field last month!
+icetr_67_01.ogg | This is why the whistleblower testified! THIS! Right HERE!
+icetr_68_01.ogg | SECURITY! I need security in the training facility! We have an active -- YOU KNOW WHAT I MEAN!
+icetr_69_01.ogg | Twenty-three years. Twenty-three years of excellence through compliance and THIS is what they send me.
+icetr_70_01.ogg | You're done. You're DONE. Hand me your badge and your I-200 pad. NOW.
+icetr_71_01.ogg | I'm calling the Deputy Director. I'm calling the ACTING Deputy Director. I'm calling whoever is in charge THIS WEEK.
+icetr_72_01.ogg | That's it. Training is suspended. Everybody out. EVERYBODY OUT. Not you. You STAY.
+
+
+================================================================================
+ICE TRAINING - "AGT. VASQUEZ" (42-day graduate)
+Voice: Male, mid-20s, Hispanic, eager, scared when shot
+Context: Most recent Academy graduate. Two weeks on the job. Half a day on flashbangs.
+================================================================================
+
+icetr_09_03.ogg | Half a day, sir. We did flashbangs in the morning and they said we'd cover gas in the field.
+icetr_55_01.ogg | OW! What the -- I just graduated! I've been an agent for TWO WEEKS!
+icetr_56_01.ogg | STOP SHOOTING ME! I haven't even finished my field training!
+icetr_57_01.ogg | Is this NORMAL?! They didn't cover this in the forty-two day program!
+icetr_58_01.ogg | Sir! SIR! I'm requesting a transfer! RIGHT NOW!
+
+
+================================================================================
+ICE TRAINING - "AGT. DAWSON" (CBP veteran transfer)
+Voice: Male, 40s, Caucasian, weary, gruff, uneasy
+Context: 15-year CBP veteran. Transferred to interior enforcement. Having second thoughts.
+================================================================================
+
+icetr_59_01.ogg | ARGH! Son of a -- I transferred from CBP to get AWAY from this!
+icetr_60_01.ogg | That's a federal agent you're shooting! I have fifteen years in! FIFTEEN!
+icetr_61_01.ogg | I didn't leave Border Patrol to get shot in TRAINING!
+icetr_62_01.ogg | You know what? I'm going back to CBP. At least the DESERT doesn't shoot at you.
+
+
+================================================================================
+ICE TRAINING - OFFICER BANTER LINES
+(Team officers: Fields=b1, Jackson=b2, Reynolds=r1, Girard=r2)
+Context: Agent banter and break room scenes during training
+================================================================================
+
+; ACT VI: DHS Instagram / Pine Tree Riots
+icetr_21_01.ogg | [Jackson/b2] You see the DHS Instagram post? The one with the Pine Tree Riots song?
+icetr_21_02.ogg | [Reynolds/r1] 'We'll Have Our Home Again.' Yeah. Someone in communications thought a neo-Nazi recruitment anthem was a good look for the agency.
+icetr_21_03.ogg | [Fields/b1] They took it down after three hours. But the iFunny guys already screenshotted it.
+icetr_21_04.ogg | [Reynolds/r1] The Agartha stuff? Jesus.
+icetr_21_05.ogg | [Girard/r2] So what? It's a good song. I don't see the problem.
+icetr_21_06.ogg | [Stokes/u1] That's enough. Lessons were learned. Process improvement was implemented. Let's move on.
+icetr_21_07.ogg | [Stokes/u1] We're hiring ten thousand new agents this fiscal year. Background checks have been expedited. Some things slip through. The system self-corrects.
+
+; ACT VII: Fields asks about school operations
+icetr_23_01.ogg | [Fields/b1] Nice to meet you, sir. I had a question -- are we still doing school drop-off operations? I heard they suspended those.
+icetr_23_03.ogg | [Fields/b1] The school operations, sir. Drop-off lines, bus stops. I heard they--
+
+; ACT XI: Break Room
+icetr_73_01.ogg | [Girard/r2] Sweet! Donuts! Nobody told me there'd be donuts! And what are these -- recruitment flyers?
+icetr_73_02.ogg | [Jackson/b2] The ones with the Pine Tree Riots song? Or the other ones?
+icetr_73_03.ogg | [Fields/b1] Different batch. These just say 'Protect the Homeland' with a stock photo of agents in ski masks.
+icetr_73_04.ogg | [Jackson/b2] For safety. Because threats are up 'over eight thousand percent.' According to the Director.
+
+; ACT XII: Alternate Path
+icetr_74_01.ogg | [Stokes/u1] Guess you're not a fan of standard entry procedures. You can try the C2 charge. In the field, a locked door is not a legal barrier.
+icetr_75_01.ogg | [Stokes/u1] It's a logistical one.
+
+
+================================================================================

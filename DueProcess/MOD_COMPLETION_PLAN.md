@@ -40,8 +40,12 @@
 - **Ramon Gutierrez** — Operator, 58, claims veteran, 30 years in US
 - **Lupe Hernandez** — Owner, citizen since 2003
 
-### Training: The Debrief (SP-Training)
-- Sensitivity training / debrief session
+### Training: Excellence Through Compliance (SP-Training)
+- **DAD Garrett Stokes** — Career bureaucrat, 50s, 23 years ICE. Instructor. *Voice: icetr_* (Stokes lines, 89 lines)
+- **Agt. Vasquez** — 42-day Academy graduate, 2 weeks on the job. *Voice: icetr_09_03, icetr_55-58* (5 lines)
+- **Agt. Dawson** — CBP veteran transfer, 15 years, uneasy. *Voice: icetr_59-62* (4 lines)
+- **Agent Banter** — Fields, Jackson, Reynolds, Girard. *Voice: icetr_21, icetr_23, icetr_73* (11 lines)
+- 12 acts, 121 total lines. References: Todd Lyons memo, Renee Good killing, Abrego Garcia, Pine Tree Riots, whistleblower testimony, Minneapolis operation, Homan quotes.
 
 ### Mission 5: The Shelter (SP-Tenement)
 - **Jean-Pierre Baptiste** — Haitian journalist, late 30s, asylum seeker. TPS, work permit. Fled Port-au-Prince after death threats. *Voice: jp_* (12 lines, recorded)
@@ -62,10 +66,18 @@
 | Carmen Reyes | cr_ | 19 | Done | Done | Done | m07 (Taco) |
 | Andriy Kovalenko | andk/ak_ | 10 | Done | Done | Needs SwatEd volumes | m04 (ABomb) |
 | Jean-Pierre Baptiste | jpb/jp_ | 12 | Done | Done | Done (ConvTen1-13) | m09 (Tenement) |
+| DAD Stokes (Training) | icetr_ | 89 | Done | Done (u1) | Done (Train1-74) | m00 (Training) |
+| Agt. Vasquez (Training) | icetr_ | 5 | Done | Done (vaz) | Done (Train9,55-58) | m00 (Training) |
+| Agt. Dawson (Training) | icetr_ | 4 | Done | Done (daw) | Done (Train59-62) | m00 (Training) |
+| Training Officers | icetr_ | 11 | Done | Done (b1/b2/r1/r2) | Done (Train21,23,73) | m00 (Training) |
 
 ### Audio Still Needed
 | Category | Count | Status |
 |----------|-------|--------|
+| Training - DAD Stokes | ~89 | Wired, not recorded |
+| Training - Agt. Vasquez | 5 | Wired, not recorded |
+| Training - Agt. Dawson | 4 | Wired, not recorded |
+| Training - Officer banter | 11 | Wired, not recorded |
 | TOC lines | ~28 | Not recorded |
 | News Anchor | ~25 | Not recorded |
 | Dispatcher | ~6 | Not recorded |
@@ -105,12 +117,13 @@
 ## 5. IMPLEMENTATION ORDER
 
 1. [x] **Mission sync** — All 5 missions + training configured with briefings, hostages, suspects, timelines
-2. [x] **Speakers** — All 7 custom speakers in Speakers.ini
+2. [x] **Speakers** — All 9 custom speakers in Speakers.ini (+ vaz, daw for training)
 3. [x] **Voice wiring** — All recorded characters wired in SoundEffects.ini + Conversations.ini
 4. [x] **Character archetypes** — All custom + tenement archetypes configured
-5. [ ] **SwatEd map editing** — ConvDPNightclub volumes for SP-ABomb (Windows/CrossOver)
-6. [ ] **Remaining audio recording** — TOC, News Anchor, briefings, 911, officers, civilians
-7. [ ] **Texture swaps** — Character outfits, loading screens, thumbnails
+5. [x] **SP-Training narrative** — 121-line "Excellence Through Compliance" training rewrite (12 acts, icetr_ prefix)
+6. [ ] **SwatEd map editing** — ConvDPNightclub volumes for SP-ABomb (Windows/CrossOver)
+7. [ ] **Remaining audio recording** — Training (121 lines), TOC, News Anchor, briefings, 911, officers, civilians
+8. [ ] **Texture swaps** — Character outfits, loading screens, thumbnails
 
 ---
 
@@ -125,7 +138,7 @@
 | Speakers | `DueProcess/System/Speakers.ini` |
 | Sound specs | `DueProcess/System/SoundEffects.ini` |
 | Archetypes | `DueProcess/System/HostageArchetypes.ini` |
-| Voice files | `DueProcess/Content/Sounds/CivilianHospital/`, `CivilianSchool/`, `CivilianTaco/`, `CivilianNightclub/`, `CivilianTenement/`, `OfficerDueProcess/` |
+| Voice files | `DueProcess/Content/Sounds/CivilianHospital/`, `CivilianSchool/`, `CivilianTaco/`, `CivilianNightclub/`, `CivilianTenement/`, `OfficerDueProcess/`, `ScriptedVO/` (training icetr_) |
 | Convert script | `DueProcess/convert_mp3_to_ogg.sh` |
 
 ---
