@@ -95,17 +95,27 @@
 
 ## 4. CRITICAL REMAINING TASKS
 
-### Map Editing (Requires SwatEd on Windows/CrossOver)
-- [ ] **SP-ABomb (Mission 1):** Add ConvDPNightclub1-5 ConversationVolumes for Andriy's dialogue. Currently, the 7 existing ConvAbomb1-7 play bomb-plot dialogue that clashes with the nightclub narrative.
-- [ ] **SP-Tenement (Mission 5):** No map editing needed! All 12 ConvTen volumes are baked into the map and have been redefined to play Jean-Pierre's dialogue via INI.
+### Map Editing
+- [x] **No SwatEd needed!** All maps have existing ConversationVolumes that were repurposed via INI rewrites.
+
+### Conversation Volume Mapping (all wired via INI, no map editing)
+| Map | Volumes | Character(s) |
+|-----|---------|-------------|
+| SP-ABomb | ConvAbomb1-5 | Andriy Kovalenko (ak_01-10) |
+| SP-Hospital | ConvHosp1a-d, ConvHosp2 | David Whitehorse (dw_01-11), Marcus Williams (mw_01-17) |
+| SP-RedLibrary | ConvRedLib1-2 | Kevin Chen (kc_01-14), Officer Mandarin (om_01-09) |
+| SP-ConvenienceStore | ConvConv1/2/4 | Carmen Reyes (cr_01-19) |
+| SP-Tenement | ConvTen1-11, ConvTen13 | Jean-Pierre Baptiste (jp_01-12) |
+| SP-Training | Train1-74 | DAD Stokes (icetr_), Vasquez, Dawson, Officers |
 
 ### INI Configuration
 - [x] Mission briefings (DueProcess_Missions.ini) — All 5 missions + training configured
 - [x] SwatMissions.ini — All 5 missions + training configured
-- [x] Conversations.ini — ConvTen1-13 redefined for Jean-Pierre
-- [x] Speakers.ini — All 7 custom speakers added (dw, mw, kc, cr, om, andk, jpb)
+- [x] Conversations.ini — All map volumes rewritten with DP character dialogue
+- [x] Speakers.ini — All custom speakers added (dw, mw, kc, cr, om, andk, jpb, vaz, daw)
 - [x] SoundEffects.ini — All custom voice specs wired, preloaders updated
 - [x] HostageArchetypes.ini — Custom archetypes for all characters + tenement archetypes repurposed
+- [x] DefSwatGUIState.ini — Campaign order: DP missions first, stock after; SP-Training separate
 
 ### Visual Assets (Low Priority)
 - [ ] Character texture swaps (nightclub outfits, etc.)
@@ -121,8 +131,8 @@
 3. [x] **Voice wiring** — All recorded characters wired in SoundEffects.ini + Conversations.ini
 4. [x] **Character archetypes** — All custom + tenement archetypes configured
 5. [x] **SP-Training narrative** — 121-line "Excellence Through Compliance" training rewrite (12 acts, icetr_ prefix)
-6. [ ] **SwatEd map editing** — ConvDPNightclub volumes for SP-ABomb (Windows/CrossOver)
-7. [ ] **Remaining audio recording** — Training (121 lines), TOC, News Anchor, briefings, 911, officers, civilians
+6. [x] **Conversation volume rewrites** — All 6 maps' ConversationVolumes repurposed with DP dialogue via INI (no SwatEd needed)
+7. [x] **TTS audio generation** — All 345+ voice files generated via ElevenLabs with 14 distinct voices
 8. [ ] **Texture swaps** — Character outfits, loading screens, thumbnails
 
 ---
@@ -162,6 +172,14 @@ Missions reordered so DP content plays first, stock missions after:
 7-15. Stock missions (FoodWall, Fairfax, AutoGarage, Casino, JewelryHeist, ArmsDeal, Hotel, DNA, ObjBallistics)
 
 ### SP-ABomb Map Architecture
-- **7 ConvAbomb volumes** baked in (bomb-plot dialogue — clashes with nightclub narrative)
-- **5 ConvDPNightclub sections** defined in Conversations.ini but NO matching volumes in map
-- **Requires SwatEd** to add ConvDPNightclub TriggerVolumes
+- **5 ConvAbomb volumes** confirmed in map (ConvAbomb1-5) → now play Andriy Kovalenko dialogue
+- Orphaned ConvAbomb6-7 removed (no map volumes)
+- Orphaned ConvDPNightclub1-5 removed (never had map volumes)
+
+### All Maps — Conversation Volume Inventory
+- SP-ABomb: 5 volumes (ConvAbomb1-5)
+- SP-Hospital: 5 volumes (ConvHosp1a-d, ConvHosp2)
+- SP-RedLibrary: 2 volumes (ConvRedLib1-2)
+- SP-ConvenienceStore: 3 confirmed (ConvConv1/2/4), 2 possible (ConvTrafficA/A1)
+- SP-Tenement: 12 volumes (ConvTen1-11, ConvTen13)
+- SP-Training: 74 conversation triggers (Train1-74)
