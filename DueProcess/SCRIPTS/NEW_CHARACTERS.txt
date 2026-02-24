@@ -176,3 +176,61 @@ cr_19.ogg | I'm done. I'm DONE. Give me my tacos. I'm going back to work. Some o
 
 
 ================================================================================
+UKRAINIAN MAN - "ANDRIY KOVALENKO"
+Voice: Male, 30s, Ukrainian accent, exasperated, precise, increasingly frustrated
+Context: Nightclub. Defense contractor with security clearance. At his friend Tomek's birthday.
+================================================================================
+
+ak_01.ogg | I'm Ukrainian. Not Russian. We fought a war about this. It was on the news. Your news.
+
+ak_02.ogg | Green card. Right here. See where it says "Ukraine"? Not Russia. Different country. Different language. Different alphabet, even.
+
+ak_03.ogg | No, say it back to me. Oo-krah-YEE-nah. ...No. Try again.
+
+ak_04.ogg | My wife is American. My daughter was born in Georgia. The state. Not the country. Although with you, I should check.
+
+ak_05.ogg | I work for a defense contractor. I have a security clearance. I am literally more vetted than you are.
+
+ak_06.ogg | You called my friend Tomek "Russian." He's Polish. He's not speaking to me now because he thinks I invited federal agents to his birthday.
+
+ak_07.ogg | Back home, when men with guns come to a club and ask for papers, we have a word for that. We also have a word for the people who let it happen.
+
+ak_08.ogg | I waited four years for my visa. Paid seven thousand dollars. Did everything by the book. And you're doing this at a nightclub. On a Saturday. During the DJ's good set.
+
+ak_09.ogg | Call Lockheed Martin. Ask for the systems engineering division. They'll confirm I exist. They'll also be upset you're harassing someone with a TS/SCI at a birthday party.
+
+ak_10.ogg | You know what, keep the green card. I have a photocopy. And a lawyer. And a Ukrainian embassy that loves making phone calls.
+
+
+================================================================================
+HAITIAN MAN - "JEAN-PIERRE BAPTISTE"
+Voice: Male, late 30s, Haitian accent, calm, precise, journalist's diction
+Context: Asylum seeker shelter. Investigative journalist who fled Haiti after death threats.
+================================================================================
+
+jp_01.ogg | I am a journalist. In Haiti, when men with guns came to my office, I wrote about it. I did not expect to be on the other side of the story.
+
+jp_02.ogg | My asylum case number is A-207-841-936. My hearing is June fourteenth. My lawyer is Rebecca Cohen. Would you like her number? She would love to hear about this.
+
+jp_03.ogg | I have documented three coups, two hurricanes, and a cholera epidemic. Your raid is not the most frightening thing that has happened to me this month.
+
+jp_04.ogg | In Port-au-Prince, the gangs knock down your door at three AM. Here, you knock at five AM. With a warrant. I appreciate the professionalism.
+
+jp_05.ogg | You want to know why I left Haiti? Because men with guns told me to stop writing. I did not stop. So they burned my office. I came here because this was supposed to be different.
+
+jp_06.ogg | I have Temporary Protected Status. I have a work permit. I have a Social Security number. I file taxes. I tip twenty percent. What else would you like?
+
+jp_07.ogg | Everyone in this building has a court date. Every single person. We are in your system. We are waiting for your system. Your system is why we are here.
+
+jp_08.ogg | The woman in 3B is from Guatemala. She walked two thousand miles with her daughter. She has a hearing in September. She is not a threat to national security. She is a seamstress.
+
+jp_09.ogg | You know what we call this building? The Waiting Room. Because that is all we do. Wait for hearings. Wait for work permits. Wait for someone to decide if we deserve to be safe.
+
+jp_10.ogg | I could write this story. Armed agents raid building full of people waiting for their day in court. But who would publish it? And who would read it?
+
+jp_11.ogg | In my country, the president sent men to raid the newspaper. Here, the president sends men to raid an apartment building. Is that progress? I am genuinely asking.
+
+jp_12.ogg | You can process me. You can detain me. You can deport me. But I will write about this. That is what I do. That is why they tried to kill me. And that is why I am here.
+
+
+================================================================================
